@@ -22,7 +22,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require "ipgeobase"
+
+ip_meta = Ipgeobase.lookup('8.8.8.8')
+
+ip_meta.city # Ashburn
+ip_meta.country # United States
+ip_meta.countryCode # US
+ip.lat # 39.03
+ip.lon # -77.5
+```
 
 ## Development
 
