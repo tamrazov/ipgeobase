@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/aleksandrtamrazov/ipgeobase/workflows/hexlet-check/badge.svg)](https://github.com/aleksandrtamrazov/rails-project-lvl1/actions)
+[![Actions Status](https://github.com/aleksandrtamrazov/ipgeobase/workflows/hexlet-check/badge.svg)](https://github.com/aleksandrtamrazov/ipgeobase/actions)
 
 # Ipgeobase
 
