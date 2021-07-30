@@ -16,8 +16,8 @@ module Ipgeobase
     element :city, String, tag: 'city'
     element :country, String, tag: 'country'
     element :countryCode, String, tag: 'countryCode'
-    element :lat, Integer, tag: 'lat'
-    element :lon, Integer, tag: 'lon'
+    element :lat, String, tag: 'lat'
+    element :lon, String, tag: 'lon'
   end
 
   def self.lookup(ip)
