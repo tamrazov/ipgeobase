@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/aleksandrtamrazov/ipgeobase/workflows/main.yml/badge.svg)](https://github.com/aleksandrtamrazov/ipgeobase/actions)
+[![Ruby](https://github.com/aleksandrtamrazov/ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/aleksandrtamrazov/ipgeobase/actions/workflows/main.yml)
 
 # Ipgeobase
 
