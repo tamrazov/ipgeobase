@@ -8,6 +8,9 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    crack (0.4.5)
+      rexml
+    hashdiff (1.0.1)
     minitest (5.14.4)
     nokogiri (1.11.7-x86_64-linux)
       racc (~> 1.4)
@@ -16,6 +19,11 @@ GEM
     public_suffix (4.0.6)
     racc (1.5.2)
     rake (13.0.6)
+    rexml (3.2.5)
+    webmock (3.13.0)
+      addressable (>= 2.3.6)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
 
 PLATFORMS
   x86_64-linux
@@ -26,6 +34,7 @@ DEPENDENCIES
   minitest (~> 5.0)
   nokogiri-happymapper (~> 0.8.1)
   rake (~> 13.0)
+  webmock (~> 3.13.0)
 
 BUNDLED WITH
    2.2.15

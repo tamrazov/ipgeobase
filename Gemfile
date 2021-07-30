@@ -10,5 +10,6 @@ gem "rake", "~> 13.0"
 gem "minitest", "~> 5.0"
 gem "nokogiri-happymapper", "~> 0.8.1"
 gem "addressable", "~> 2.8.0"
+gem "webmock", "~> 3.13.0"
 
 gem "minitest", "~> 5.0"
