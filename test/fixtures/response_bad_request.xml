@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <status>fail</status>
+  <message>invalid query</message>
+  <query>22222222</query>
+</query>
